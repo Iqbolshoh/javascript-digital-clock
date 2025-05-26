@@ -1,38 +1,48 @@
-# JavaScript Clock
+# 🕒 JavaScript Clock
 
 This project is a simple digital clock implemented using HTML, CSS, and JavaScript. It displays the current time in hours, minutes, and seconds and updates every second.
 
-## Preview
+---
 
-### Desktop
+## 👀 Preview
+
+### 💻 Desktop
 
 ![Desktop Preview](./src/images/desktop.png)
 
-### Mobile
+### 📱 Mobile
 
 ![Mobile Preview](./src/images/mobile.png)
 
-## Features
+---
 
-- **Live Clock:** Displays the current time and updates every second.
-- **Responsive Design:** Adjusts to different screen sizes.
-- **Modern Design:** Features a visually appealing clock face with gradients and shadows.
+## ✨ Features
 
-## Installation
+- 🕰️ **Live Clock**: Displays the current time and updates every second.  
+- 📱 **Responsive Design**: Adjusts to different screen sizes.  
+- 🎨 **Modern Design**: Features a visually appealing clock face with gradients and shadows.
+
+---
+
+## 🧪 Installation
 
 To set up and run the JavaScript Clock on your local machine:
 
-1. **Clone the Repository:**
+1. 📥 **Clone the Repository:**
+
    ```bash
    git clone https://github.com/Iqbolshoh/javascript-clock.git
-   ```
-2. **Navigate to the Project Directory:**
+````
+
+2. 📁 **Navigate to the Project Directory:**
+
    ```bash
    cd javascript-clock
    ```
-3. **Open the `index.html` File:**
-   Open the `index.html` file in any modern web browser to start using the clock.
 
+3. 🌐 **Open the `index.html` File:**
+
+   Open the `index.html` file in any modern web browser to start using the clock.
 
 ## 🖥 Technologies Used
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
