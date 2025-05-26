@@ -32,7 +32,7 @@ To set up and run the JavaScript Clock on your local machine:
 
    ```bash
    git clone https://github.com/Iqbolshoh/javascript-clock.git
-````
+   ```
 
 2. 📁 **Navigate to the Project Directory:**
 
