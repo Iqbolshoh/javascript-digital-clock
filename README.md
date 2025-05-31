@@ -1,4 +1,4 @@
-# 🕒 JavaScript Clock
+# 🕒 JavaScript Digital Clock
 
 🕰️ This project is a simple digital clock implemented using HTML, CSS, and JavaScript. It displays the current time in hours, minutes, and seconds and updates every second.
 
@@ -31,13 +31,13 @@ To set up and run the JavaScript Clock on your local machine:
 1. 📥 **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Iqbolshoh/javascript-clock.git
+   git clone https://github.com/Iqbolshoh/javascript-digital-clock.git
    ```
 
 2. 📁 **Navigate to the Project Directory:**
 
    ```bash
-   cd javascript-clock
+   cd javascript-digital-clock
    ```
 
 3. 🌐 **Open the `index.html` File:**
