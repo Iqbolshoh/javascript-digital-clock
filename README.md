@@ -1,6 +1,6 @@
 # 🕒 JavaScript Clock
 
-This project is a simple digital clock implemented using HTML, CSS, and JavaScript. It displays the current time in hours, minutes, and seconds and updates every second.
+🕰️ This project is a simple digital clock implemented using HTML, CSS, and JavaScript. It displays the current time in hours, minutes, and seconds and updates every second.
 
 ---
 
