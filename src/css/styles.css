@@ -92,6 +92,12 @@ body {
     .container {
         width: min(600px, 92vw);
     }
+
+    .clock span {
+        font-size: clamp(32px, 11vw, 80px);
+        width: auto;
+        min-width: 60px;
+    }
 }
 
 @media (max-width: 480px) {
