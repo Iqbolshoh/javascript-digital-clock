@@ -77,11 +77,11 @@ body {
 }
 
 #hour::after {
-    content: 'Hours';
+    content: 'HOURS';
 }
 
 #min::after {
-    content: 'MINS';
+    content: 'MINUTES';
 }
 
 #sec::after {
